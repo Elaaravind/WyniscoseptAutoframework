@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="23205" started-at="2023-02-18T13:13:26 CST" finished-at="2023-02-18T13:13:49 CST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="23205" started-at="2023-02-18T13:13:26 CST" finished-at="2023-02-18T13:13:49 CST">
+      <class name="com.qa.testcases.TestBoxTestCases">
+        <test-method status="PASS" signature="startApplicatio()[pri:0, instance:com.qa.testcases.TestBoxTestCases@72b6cbcc]" name="startApplicatio" is-config="true" duration-ms="10291" started-at="2023-02-18T13:13:26 CST" finished-at="2023-02-18T13:13:37 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApplicatio -->
+        <test-method status="PASS" signature="verifysubmittedstudentdata()[pri:1, instance:com.qa.testcases.TestBoxTestCases@72b6cbcc]" name="verifysubmittedstudentdata" duration-ms="11769" started-at="2023-02-18T13:13:37 CST" finished-at="2023-02-18T13:13:48 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysubmittedstudentdata -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.qa.testcases.TestBoxTestCases@72b6cbcc]" name="closeApplication" is-config="true" duration-ms="1092" started-at="2023-02-18T13:13:48 CST" finished-at="2023-02-18T13:13:49 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.qa.testcases.TestBoxTestCases -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
